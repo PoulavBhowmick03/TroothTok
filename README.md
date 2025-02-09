@@ -53,9 +53,3 @@ f you believe in bringing truth back to news:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-<p align="center">
-  <a href="https://t.me/truth_tok">
-    <img src="https://img.shields.io/badge/Join-Telegram-blue.svg?style=for-the-badge&logo=telegram" alt="Join Telegram">
-  </a>
-</p> 
